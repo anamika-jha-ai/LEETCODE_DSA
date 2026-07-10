@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0079-word-search) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
