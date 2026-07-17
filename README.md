@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
