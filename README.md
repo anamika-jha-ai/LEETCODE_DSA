@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anamika-jha-ai/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
